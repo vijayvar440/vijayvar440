@@ -1,92 +1,106 @@
-## Hi 👋 I'm Vijay Var
-### Data Science Enthusiast | Python Developer
+# 👋 Hi, I'm Vijay Var
 
-🎯 Aspiring Data Scientist with hands-on experience in data analysis, machine learning basics, and real-world projects. Passionate about learning new technologies and solving problems using data.
-
----
-
-## 👨‍💻 Profile
-- 🎓 Currently pursuing **B.Tech in Computer Science (2nd Year)** from  
-  **Bansal Institute of Science and Technology, Bhopal**
-- 🎓 Diploma in Computer Science from **Government Polytechnic College, Itarsi**
-- 📍 Chopna Punji, Betul, Madhya Pradesh, India
-- 💡 Strong interest in **Data Science, Python, and Web Development**
+🎓 Diploma in Computer Science | Aspiring Software Developer  
+💻 Passionate about Web Development, Python & Data Science  
+🚀 Focused on building real-world projects and improving problem-solving skills  
 
 ---
 
-## 🔧 Technical Skills
+## 🔧 Tech Stack
 
-### 📊 Data Science
+### 💻 Programming Languages
 - Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+- Java
+- JavaScript
 
 ### 🌐 Web Development
-**Frontend**
 - HTML
 - CSS
 - JavaScript
+- Django (Backend)
 
-**Backend**
-- Django
+### 📊 Data Science
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- EDA (Exploratory Data Analysis)
 
-### 📈 Statistics & Tools
-- Mean, Median
-- Hypothesis Testing
-- Microsoft Excel
+### 🗄️ Databases
+- SQL
+
+### 🛠️ Tools
 - Git & GitHub
+- VS Code
+- Jupyter Notebook
+- Microsoft Excel
+- Microsoft PowerPoint
 
 ---
 
-## 💼 Work Experience
+## 📂 Projects
 
-### 🔹 Summer Internship – I  
-**Zensoft Technologies Pvt. Ltd., Bhopal**  
-📅 July 2023 – August 2023  
+### 🎮 Tic Tac Toe Game
+- Built an interactive game using HTML, CSS, and JavaScript  
+- Implemented game logic and user interaction  
 
-- Completed a 3-week internship in software development
-- Gained hands-on experience in web technologies and AI tools
-- Worked on real-world projects, improving coding and problem-solving skills
+### 🍔 Food Website
+- Developed a responsive frontend website  
+- Optimized UI for better user experience  
 
----
+### 🏢 Company Website (Kamara Robotics)
+- Worked on backend development using Django  
+- Integrated database and improved functionality  
 
-### 🔹 Summer Internship – II  
-**HostKash, Itarsi**  
-📅 July 2024 – August 2024  
+### 📊 Zomato & Netflix Data Analysis
+- Performed EDA using Python  
+- Visualized insights using Matplotlib & Seaborn  
 
-- Completed a 4-week professional internship
-- Worked on web development and software-based projects
-- Learned and implemented modern technologies and industry practices
-- Improved logical thinking and real-time project experience
-
----
-
-## 📌 Projects
-
-- 🛒 **Zomato Data Analysis**  
-  *Python, Pandas, Seaborn, NumPy*  
-  - Analyzed restaurant data to find trends in ratings, votes, and cuisines
-
-- 📰 **Fake & Funny News Generator**  
-  *Python (Random Module)*  
-  - Built a Python project to generate random fake and funny news headlines
-
-- 🎬 **Netflix Data Visualization**  
-  *Matplotlib, Pandas, Seaborn*  
-  - Created visualizations like bar charts, heatmaps, and histograms from Netflix data
-
-- 📊 **Netflix Data Analysis**  
-  *Python, Pandas, Seaborn, NumPy*  
-  - Performed EDA to analyze content trends, genres, and release year patterns
+### 🤖 Face Detection System
+- Built real-time face detection using OpenCV  
+- Applied computer vision techniques  
 
 ---
 
-## 📫 Contact Me
+## 💼 Experience
+
+### 🏢 Zensoft Technologies Pvt. Ltd. (Intern)
+- Worked on Python and web technologies  
+- Gained hands-on experience in real-world projects  
+
+### 🏢 HostKash (Intern)
+- Worked on web development and AI tools  
+- Improved logical thinking and technical skills  
+
+### 🏢 Kamarat & Robotic Technologies
+- Worked as Backend Developer using Django & Python  
+
+---
+
+## 📚 Education
+
+- 🎓 Diploma in Computer Science  
+  Government Polytechnic College, Itarsi (2022 – 2025)
+
+- 🎓 B.Tech in Computer Science (Pursuing)  
+  Bansal Institute of Science and Technology, Bhopal  
+
+---
+
+## 📈 Achievements
+
+- Solved 100+ DSA problems  
+- Strong understanding of OOPs, DBMS, and Operating Systems  
+
+---
+
+## 📫 Connect with Me
+
 - 📧 Email: vijayvar123456@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/vijayvar2u  
+- 💼 LinkedIn: https://linkedin.com/in/vijay-var  
+- 🐙 GitHub: https://github.com/vijayvar440  
 
 ---
 
-⭐ *Always eager to learn, build projects, and grow as a Data Scientist.*
+⭐ *Always learning and building new things!*
