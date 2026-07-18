@@ -1,113 +1,161 @@
 # 👋 Hi, I'm Vijay Var
 
-🎓 Diploma in Computer Science | Aspiring Full Stack Developer  
-💻 Passionate about Software Development, Web Development, and Backend Technologies  
-🚀 Focused on building real-world projects and improving problem-solving skills  
+### MERN Stack Developer | Java Developer | B.Tech CSE Student
+
+💻 Passionate Full Stack Developer with hands-on experience in building modern web applications using the MERN Stack. I enjoy solving real-world problems through clean, scalable code and continuously learning new technologies.
 
 ---
 
-# 💻 Technical Skills
+## 🚀 About Me
 
-## Programming Languages
+- 🎓 Diploma in Computer Science (2022–2025)
+- 🎓 Pursuing B.Tech in Computer Science (Lateral Entry)
+- 💻 MERN Stack Developer
+- 🌱 Currently learning Advanced React, Node.js & System Design
+- 📍 Bhopal, Madhya Pradesh, India
+- 📫 Email: **vijayvar123456@gmail.com**
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
 - Java
+- JavaScript (ES6+)
 - Python
-- JavaScript
 - SQL
 
-## Frontend Development
-- HTML
-- CSS
-- JavaScript
-- Responsive Web Design
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- Responsive Design
 
-## Backend Development
+### Backend
+- Node.js
+- Express.js
 - Django
 - REST APIs
-- Backend Logic Development
 
-## Databases
+### Database
+- MongoDB
 - MySQL
 - SQL
 
-## Developer Tools
+### Tools & Technologies
 - Git & GitHub
 - VS Code
 - Postman
+- Jupyter Notebook
 
-## Computer Science Fundamentals
+### Computer Science
 - Data Structures & Algorithms
-- OOPs Concepts
+- Object-Oriented Programming (OOP)
 - DBMS
 - Operating Systems
 
 ---
 
-# 📂 Projects
+# 💼 Internship Experience
 
-## 🎮 Tic Tac Toe Game
-- Developed an interactive game using HTML, CSS, and JavaScript
-- Implemented game logic and responsive user interaction
+### Backend Developer
+**Kamrat & Robotic Technologies, Bhopal**
+- Developed backend APIs using Django & Python
+- Integrated frontend with database
+- Worked on backend logic and production modules
 
-## 💱 Currency Converter Website
-- Built a currency converter web application using HTML, CSS, and JavaScript
-- Integrated real-time currency conversion functionality with user-friendly UI
+### Web Development Intern
+**HostKash, Itarsi**
+- Developed web application features
+- Debugged existing code
+- Worked with Git and modern development workflow
 
-## 🍔 Responsive Food Website
-- Developed a fully responsive food website optimized for mobile and desktop devices
-- Improved UI design and user experience using modern frontend techniques
-
-## 🏢 Company Website – Kamara Robotics
-- Worked on backend development using Django and Python
-- Integrated database operations and dynamic functionality
-
-## 🌐 Personal Portfolio Website
-- Designed and developed a personal portfolio website showcasing projects and technical skills
-- Implemented responsive design and GitHub integration
+### Software Development Intern
+**Zensoft Technologies Pvt. Ltd.**
+- Built Python application modules
+- Worked with Git version control
+- Followed SDLC practices
 
 ---
 
-# 💼 Internship Experience
+# 🚀 Featured Projects
 
-## 🏢 Zensoft Technologies Pvt. Ltd.
-- Worked on Python and web development projects
-- Gained hands-on experience in real-world software development
+## 🌐 Social Web App (MERN Stack)
+- Complete Full Stack Social Media Application
+- User Authentication & Authorization
+- CRUD Operations
+- MongoDB Database
+- Express REST APIs
+- Responsive React Frontend
 
-## 🏢 HostKash
-- Assisted in web development and backend implementation
-- Learned modern development practices and project workflows
+**Tech Stack:** React • Node.js • Express • MongoDB
 
-## 🏢 Kamrat & Robotic Technologies
-- Worked as Backend Developer using Django & Python
-- Developed backend modules and handled database integration
+---
+
+## 🏨 Hotel Management System (MERN Stack)
+
+- QR Code Based Table Ordering
+- Live Kitchen Dashboard
+- Online Payment Integration
+- Real-time Table Availability
+- Order Management System
+
+**Tech Stack:** React • Node.js • Express • MongoDB
+
+---
+
+## 🏢 Company Website
+
+- Backend Development using Django
+- Database Integration
+- Routing & Authentication
+
+**Tech Stack:** Django • Python
+
+---
+
+## 🍔 Food Website
+
+- Responsive UI
+- Modern Landing Page
+- Mobile Friendly Design
+
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
 # 📚 Education
 
-## 🎓 Diploma in Computer Science
-Government Polytechnic College, Itarsi  
-2022 – 2025
+### 🎓 B.Tech in Computer Science
+Bansal Institute of Science & Technology, Bhopal
+**Expected Graduation:** 2027
 
-## 🎓 B.Tech in Computer Science (Pursuing)
-Bansal Institute of Science and Technology, Bhopal  
-Expected Graduation: 2027
-
----
-
-# 📈 Achievements
-
-- Solved 100+ DSA problems
-- Strong understanding of OOPs, DBMS, and Operating Systems
-- Built multiple frontend and backend web projects
+### 🎓 Diploma in Computer Science
+Government Polytechnic College, Itarsi
+**2022 – 2025**
 
 ---
 
-# 📫 Connect With Me
+# 🏆 Achievements
 
-📧 Email: vijayvar123456@gmail.com  
-💼 LinkedIn: linkedin.com/in/vijay-var  
-🐙 GitHub: github.com/vijayvar440  
+- ✅ Completed 3 Software Development Internships
+- ✅ Built Multiple Full Stack Projects
+- ✅ Solved 100+ DSA Problems
+- ✅ Strong Knowledge of MERN Stack
+- ✅ Hands-on Experience with REST APIs & MongoDB
 
 ---
 
-⭐ Always learning new technologies and building innovative software solutions.
+# 🌐 Connect With Me
+
+📧 Email: **vijayvar123456@gmail.com**
+
+💼 LinkedIn:
+https://linkedin.com/in/vijay-var
+
+🐙 GitHub:
+https://github.com/vijayvar440
+
+---
+
+⭐ *"Code • Learn • Build • Repeat"*
