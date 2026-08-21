@@ -6,11 +6,20 @@
 
 ---
 
+## 🚀 Live Demo & Connect
+
+p<!-- Badges with Direct Links -->
+[![Orbit Live App](https://img.shields.io/badge/Orbit-Live_Demo-2563eb?style=for-the-badge&logo=vercel)](https://orbit-one-inky.vercel.app)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-vijayvar440-181717?style=for-the-badge&logo=github)](https://github.com/vijayvar440)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Vijay_Var-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vijay-var)
+
+---
+
 ## 🚀 About Me
 
-- 🎓 Diploma in Computer Science (2022–2025)
-- 🎓 Pursuing B.Tech in Computer Science (Lateral Entry)
-- 💻 MERN Stack Developer
+- 🎓 Pursuing B.Tech in Computer Science (Lateral Entry) — Bansal Institute of Science & Technology, Bhopal (Expected 2027)
+- 🎓 Diploma in Computer Science — Government Polytechnic College, Itarsi (2022–2025)
+- 💻 Full Stack / MERN Developer
 - 🌱 Currently learning Advanced React, Node.js & System Design
 - 📍 Bhopal, Madhya Pradesh, India
 - 📫 Email: **vijayvar123456@gmail.com**
@@ -20,141 +29,73 @@
 ## 💻 Tech Stack
 
 ### Programming Languages
-- Java
-- JavaScript (ES6+)
-- Python
-- SQL
+`Java` • `JavaScript (ES6+)` • `Python` • `SQL`
 
 ### Frontend
-- React.js
-- HTML5
-- CSS3
-- Responsive Design
+`React.js` • `HTML5` • `CSS3` • `Responsive UI` • `Dark Mode`
 
-### Backend
-- Node.js
-- Express.js
-- Django
-- REST APIs
+### Backend & Databases
+`Node.js` • `Express.js` • `Django` • `REST APIs` • `MongoDB` • `MySQL`
 
-### Database
-- MongoDB
-- MySQL
-- SQL
-
-### Tools & Technologies
-- Git & GitHub
-- VS Code
-- Postman
-- Jupyter Notebook
-
-### Computer Science
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOP)
-- DBMS
-- Operating Systems
+### Tools & Core CS
+`Git & GitHub` • `VS Code` • `Postman` • `DSA` • `OOPs` • `DBMS` • `OS`
 
 ---
 
-# 💼 Internship Experience
+## 🚀 Featured Projects
 
-### Backend Developer
-**Kamrat & Robotic Technologies, Bhopal**
-- Developed backend APIs using Django & Python
-- Integrated frontend with database
-- Worked on backend logic and production modules
-
-### Web Development Intern
-**HostKash, Itarsi**
-- Developed web application features
-- Debugged existing code
-- Worked with Git and modern development workflow
-
-### Software Development Intern
-**Zensoft Technologies Pvt. Ltd.**
-- Built Python application modules
-- Worked with Git version control
-- Followed SDLC practices
+### 🌐 Orbit — Real-Time Social & Chat Web App
+- **Live Demo:** [orbit-one-inky.vercel.app](https://orbit-one-inky.vercel.app)
+- Full Stack Messaging & Social Platform with custom Dark/Light Mode.
+- Real-time updates, custom inbox management, and profile search.
+- Dynamic Mobile Layout with viewport-height (`100dvh`) handling for seamless messaging experience.
+- **Tech Stack:** React.js • Node.js • Express.js • MongoDB • CSS3 Flexbox
 
 ---
 
-# 🚀 Featured Projects
-
-## 🌐 Social Web App (MERN Stack)
-- Complete Full Stack Social Media Application
-- User Authentication & Authorization
-- CRUD Operations
-- MongoDB Database
-- Express REST APIs
-- Responsive React Frontend
-
-**Tech Stack:** React • Node.js • Express • MongoDB
+### 🏨 Hotel Management System (MERN Stack)
+- QR Code Based Table Ordering system with live kitchen dashboard.
+- Integrated online payment flow and real-time table availability tracking.
+- **Tech Stack:** React • Node.js • Express • MongoDB
 
 ---
 
-## 🏨 Hotel Management System (MERN Stack)
-
-- QR Code Based Table Ordering
-- Live Kitchen Dashboard
-- Online Payment Integration
-- Real-time Table Availability
-- Order Management System
-
-**Tech Stack:** React • Node.js • Express • MongoDB
+### 🏢 Company Website
+- Robust backend development using Django with custom routing and authentication.
+- **Tech Stack:** Django • Python • Database Integration
 
 ---
 
-## 🏢 Company Website
-
-- Backend Development using Django
-- Database Integration
-- Routing & Authentication
-
-**Tech Stack:** Django • Python
+### 🍔 Food Website
+- Mobile-friendly responsive landing page UI.
+- **Tech Stack:** HTML5 • CSS3 • JavaScript
 
 ---
 
-## 🍔 Food Website
+## 💼 Internship Experience
 
-- Responsive UI
-- Modern Landing Page
-- Mobile Friendly Design
-
-**Tech Stack:** HTML • CSS • JavaScript
-
----
-
-# 📚 Education
-
-### 🎓 B.Tech in Computer Science
-Bansal Institute of Science & Technology, Bhopal
-**Expected Graduation:** 2027
-
-### 🎓 Diploma in Computer Science
-Government Polytechnic College, Itarsi
-**2022 – 2025**
+- **Backend Developer Intern** @ *Kamrat & Robotic Technologies, Bhopal*
+  - Developed REST APIs using Django & Python, integrated frontends with databases, and deployed production modules.
+- **Web Development Intern** @ *HostKash, Itarsi*
+  - Built web application features, debugged codebases, and managed team Git workflows.
+- **Software Development Intern** @ *Zensoft Technologies Pvt. Ltd.*
+  - Developed Python application modules following complete SDLC practices.
 
 ---
 
-# 🏆 Achievements
+## 🏆 Key Achievements
 
-- ✅ Completed 3 Software Development Internships
-- ✅ Built Multiple Full Stack Projects
-- ✅ Solved 100+ DSA Problems
-- ✅ Strong Knowledge of MERN Stack
-- ✅ Hands-on Experience with REST APIs & MongoDB
+- 🚀 **Deployed Production Apps:** Built and deployed full-stack web applications like Orbit.
+- 💼 **3 Software Internships:** Hands-on industry experience across Django, React, and Python.
+- 🧩 **Problem Solving:** Solved 100+ Data Structures & Algorithms (DSA) problems.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-📧 Email: **vijayvar123456@gmail.com**
-
-💼 LinkedIn:
-https://linkedin.com/in/vijay-var
-
-🐙 GitHub:
-https://github.com/vijayvar440
+- **Email:** [vijayvar123456@gmail.com](mailto:vijayvar123456@gmail.com)
+- **LinkedIn:** [linkedin.com/in/vijay-var](https://linkedin.com/in/vijay-var)
+- **GitHub:** [github.com/vijayvar440](https://github.com/vijayvar440)
 
 ---
 
