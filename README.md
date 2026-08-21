@@ -44,7 +44,9 @@ p<!-- Badges with Direct Links -->
 
 ## 🚀 Featured Projects
 
-### 🌐 Orbit — Real-Time Social & Chat Web App
+### 🌐 Orbit — Real-Time Social & Chat Web 
+
+App
 - **Live Demo:** [orbit-one-inky.vercel.app](https://orbit-one-inky.vercel.app)
 - Full Stack Messaging & Social Platform with custom Dark/Light Mode.
 - Real-time updates, custom inbox management, and profile search.
