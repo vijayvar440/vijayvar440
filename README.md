@@ -47,7 +47,7 @@
 ### 🌐 Orbit — Real-Time Social & Chat Web 
 
 App
-- **Live Demo:** [orbit-one-inky.vercel.app](https://orbit-one-inky.vercel.app)
+- **Live know:** [orbit-one-inky.vercel.app](https://orbit-one-inky.vercel.app)
 - Full Stack Messaging & Social Platform with custom Dark/Light Mode.
 - Real-time updates, custom inbox management, and profile search.
 - Dynamic Mobile Layout with viewport-height (`100dvh`) handling for seamless messaging experience.
