@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo & Connect
 
-<!-- Badges with Direct Links -->
+
 [![Orbit Live App](https://img.shields.io/badge/Orbit-Live_Demo-2563eb?style=for-the-badge&logo=vercel)](https://orbit-one-inky.vercel.app)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-vijayvar440-181717?style=for-the-badge&logo=github)](https://github.com/vijayvar440)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Vijay_Var-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vijay-var)
