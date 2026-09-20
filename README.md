@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vijay Var
+👋 Hi, I'm Vijay Var
 
 ### MERN Stack Developer | Java Developer | B.Tech CSE Student
 
@@ -15,8 +15,8 @@
 
 ## 🚀 Live Demo & Connect
 
-
 [![Orbit Live App](https://img.shields.io/badge/Orbit-Live_Demo-2563eb?style=for-the-badge&logo=vercel)](https://orbit-one-inky.vercel.app)
+[![NearPing Live App](https://img.shields.io/badge/NearPing-Live_Demo-16a34a?style=for-the-badge&logo=vercel)](https://nearping-app.vercel.app)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-vijayvar440-181717?style=for-the-badge&logo=github)](https://github.com/vijayvar440)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Vijay_Var-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vijay-var)
 
@@ -42,7 +42,10 @@
 `React.js` • `HTML5` • `CSS3` • `Responsive UI` • `Dark Mode`
 
 ### Backend & Databases
-`Node.js` • `Express.js` • `Django` • `REST APIs` • `MongoDB` • `MySQL`
+`Node.js` • `Express.js` • `Django` • `REST APIs` • `Socket.io` • `MongoDB (Geospatial/2dsphere)` • `MySQL`
+
+### Mobile & Deployment
+`Capacitor (Android)` • `Android Studio` • `APK/AAB Release Signing` • `Vercel` • `Render`
 
 ### Tools & Core CS
 `Git & GitHub` • `VS Code` • `Postman` • `DSA` • `OOPs` • `DBMS` • `OS`
@@ -51,14 +54,23 @@
 
 ## 🚀 Featured Projects
 
-### 🌐 Orbit — Real-Time Social & Chat Web 
-
-App
-- **Live know:** [orbit-one-inky.vercel.app](https://orbit-one-inky.vercel.app)
+### 🌐 Orbit — Real-Time Social & Chat Web App
+- **Live:** [orbit-one-inky.vercel.app](https://orbit-one-inky.vercel.app)
 - Full Stack Messaging & Social Platform with custom Dark/Light Mode.
 - Real-time updates, custom inbox management, and profile search.
 - Dynamic Mobile Layout with viewport-height (`100dvh`) handling for seamless messaging experience.
 - **Tech Stack:** React.js • Node.js • Express.js • MongoDB • CSS3 Flexbox
+
+---
+
+### 📍 NearPing — Real-Time Location-Based Alert & Chat App
+- **Live:** [nearping-app.vercel.app](https://nearping-app.vercel.app) &nbsp;|&nbsp; Also shipped as a native **Android app**
+- Full-stack, end-to-end product: React (Vite) frontend on Vercel, Node.js/Express backend on Render, MongoDB Atlas database — with auto-deploy on every GitHub push.
+- Ping creation, Lost/Found/Urgent Help alerts, and location-based radius alerts using MongoDB **2dsphere** + `$near` geospatial queries.
+- Real-time chat via **Socket.io**, alert-expiry system, and JWT-based authentication.
+- Converted the web app into a native Android app using **Capacitor**, configured release signing with a custom keystore, and generated a signed **APK/AAB**.
+- Built a remote-update pipeline (Vercel URL wired into the Capacitor config) so UI/feature updates go live on installed Android devices instantly — no APK rebuild needed.
+- **Tech Stack:** React (Vite) • Node.js • Express.js • MongoDB Atlas • Socket.io • Capacitor
 
 ---
 
@@ -83,7 +95,7 @@ App
 
 ## 💼 Internship Experience
 
-- **Backend Developer Intern** @ *Kamrat & Robotic Technologies, Bhopal*
+- **Backend Developer Intern** @ *Kamarta Robotics Automation Pvt. Ltd., Bhopal*
   - Developed REST APIs using Django & Python, integrated frontends with databases, and deployed production modules.
 - **Web Development Intern** @ *HostKash, Itarsi*
   - Built web application features, debugged codebases, and managed team Git workflows.
@@ -94,7 +106,7 @@ App
 
 ## 🏆 Key Achievements
 
-- 🚀 **Deployed Production Apps:** Built and deployed full-stack web applications like Orbit.
+- 🚀 **Shipped Full-Stack Products End-to-End:** Built and deployed Orbit and NearPing — frontend, backend, database, deployment pipeline, and for NearPing, a native Android release with a remote-update system.
 - 💼 **3 Software Internships:** Hands-on industry experience across Django, React, and Python.
 - 🧩 **Problem Solving:** Solved 100+ Data Structures & Algorithms (DSA) problems.
 
