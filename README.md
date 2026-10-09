@@ -222,4 +222,4 @@ A responsive food/restaurant-style website focused on creating a clean and mobil
 * Interactive UI using JavaScript.
 * Cross-screen layout optimization.
 
-**My Focus:** Frontend development, responsive design and JavaScript-based interactions.
+**My Focus:** Frontend development, responsive design and JavaScript-based interactions.A
