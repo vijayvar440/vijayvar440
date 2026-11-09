@@ -200,12 +200,16 @@ A hotel management and restaurant ordering platform designed to digitize table o
 
 ### 🏢 Company Website — Kamarta Robotics Automation
 
+
+
 **Type:** Production Company Website
 **Tech Stack:** Django • Python • Database Integration
 
 Developed the backend of a company website using Django.
 
-#### 🔹 Key Work
+
+
+#### 🔹 Key Work (work in project) 
 
 * Developed Django backend functionality.
 * Implemented custom URL routing.
