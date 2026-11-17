@@ -219,7 +219,7 @@ Developed the backend of a company website using Django.
 
 This project also provided practical experience working with backend architecture and production-oriented development.
 
----
+
 
 ### 🍔 Food Website
 
