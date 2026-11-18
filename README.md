@@ -196,7 +196,6 @@ A hotel management and restaurant ordering platform designed to digitize table o
 
 **My Focus:** Full-stack development, REST APIs, MongoDB integration and real-time order-management workflow.
 
----
 
 ### 🏢 Company Website — Kamarta Robotics Automation
 
