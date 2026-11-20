@@ -151,7 +151,7 @@ The complete application is deployed using a GitHub-based workflow:
 
 **GitHub Push → Vercel Frontend Deployment + Render Backend Deployment → MongoDB Atlas**
 
-A `/health` endpoint was also configured for backend health monitoring.
+
 
 #### 📲 Native Android Application
 
