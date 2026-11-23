@@ -176,7 +176,7 @@ The Android wrapper loads the live frontend hosted on Vercel through the configu
 
 **What I worked on:** Complete end-to-end development — React frontend, Node/Express backend, MongoDB database, geospatial functionality, Socket.io, authentication, deployment, Android packaging and release configuration.
 
----
+
 
 ### 🏨 Hotel Management & QR Ordering System
 
